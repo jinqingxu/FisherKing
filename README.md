@@ -13,6 +13,6 @@ FisherKing
 ![image](https://github.com/jinqingxu/FisherKing/blob/master/images/hardware1.png)
 - The pressure sensor can reflect the pulling force of the player when fishing.
 ![image](https://github.com/jinqingxu/FisherKing/blob/master/images/hardware2.png)
-- The vibrating motor can give the player feedback when he or she successfully caught a fish.
+- The vibrating motor can give the player feedback when he or she successfully catches a fish.
 The bigger the fish is, the higher the vibrating frequency is. 
 ![image](https://github.com/jinqingxu/FisherKing/blob/master/images/hardware3.png)
